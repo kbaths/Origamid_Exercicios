@@ -1,0 +1,24 @@
+body {
+  text-align: center;
+  background-color: rgb(221, 217, 217);
+}
+
+span {
+  font-size: 17px;
+  line-height: 1.5;
+  font-weight: bolder;
+}
+
+.hoje {
+  color: rgb(50, 50, 201);
+}
+
+.amanha {
+  color: tomato;
+}
+
+a {
+  line-height: 5.5;
+  text-decoration: none;
+  color: #000;
+}
