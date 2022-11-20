@@ -5,7 +5,7 @@
 
 body {
   background-color: #b0b2b3;
-  color: #b2b2b2;
+  color: #fff;
 }
 
 h1 {
@@ -41,4 +41,8 @@ a {
 
 span {
   color: #febe01;
+}
+
+p {
+  color: #b2b2b2;
 }
